@@ -1,0 +1,6 @@
+C:\Users\natal\OneDrive\Bureau\POO\Projet - Emma Nat\Problème\Problème\bin\Debug\Problème.exe.config
+C:\Users\natal\OneDrive\Bureau\POO\Projet - Emma Nat\Problème\Problème\bin\Debug\Problème.exe
+C:\Users\natal\OneDrive\Bureau\POO\Projet - Emma Nat\Problème\Problème\bin\Debug\Problème.pdb
+C:\Users\natal\OneDrive\Bureau\POO\Projet - Emma Nat\Problème\Problème\obj\Debug\Problème.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Bureau\POO\Projet - Emma Nat\Problème\Problème\obj\Debug\Problème.exe
+C:\Users\natal\OneDrive\Bureau\POO\Projet - Emma Nat\Problème\Problème\obj\Debug\Problème.pdb
